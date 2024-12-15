@@ -2,6 +2,7 @@
 !config/*
 !scripts/*
 !resources/*
+!Planning/*
 
 !.gitattributes
 !.gitignore
