@@ -13,22 +13,107 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tinkers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Tinkers"
+            }
+          },
+          {
+            "id": "0a1deb9bf53c5a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bronze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bronze"
+            }
+          },
+          {
+            "id": "3ab4fe069075d146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EnderIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EnderIO"
+            }
+          },
+          {
+            "id": "36ab32c05c4f1fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steel"
+            }
+          },
+          {
+            "id": "13462e84f88cb9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steam Boiler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steam Boiler"
+            }
+          },
+          {
+            "id": "6d19884adf35d1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LV"
+            }
+          },
+          {
+            "id": "122ffcc5a5914bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Circuitry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Circuitry"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "4ecf8c74b3425745",
+        "id": "ba7bef31dfc6d853",
         "type": "tabs",
         "children": [
           {
-            "id": "112426e59db991e9",
+            "id": "d69b8b1b901ea5fc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -109,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "EnderIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for EnderIO"
             }
           },
           {
@@ -128,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "EnderIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from EnderIO"
             }
           },
           {
@@ -155,10 +240,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "EnderIO.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of EnderIO"
             }
           }
         ]
@@ -178,8 +263,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00d682bb681bfa2",
+  "active": "3ab4fe069075d146",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Thermal.md",
+    "Steel.md",
+    "Modular Machinery.md",
+    "EnderIO.md",
+    "Steam Boiler.md",
+    "LV.md",
+    "First Circuitry.md",
+    "Bronze.md",
+    "Steam.md",
+    "Tinkers.md",
+    "Beginning.md",
+    "2024-12-15.md"
   ]
 }
