@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "9b3af64ffdf4e3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Item.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Custom Item"
+            }
+          },
+          {
+            "id": "37f2ad95cb8d8905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MV Circuits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MV Circuits"
+            }
+          },
+          {
             "id": "36ab32c05c4f1fed",
             "type": "leaf",
             "state": {
@@ -106,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ba7bef31dfc6d853",
@@ -194,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EnderIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EnderIO"
+              "title": "Backlinks"
             }
           },
           {
@@ -213,12 +240,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EnderIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EnderIO"
+              "title": "Outgoing links"
             }
           },
           {
@@ -239,11 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EnderIO.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of EnderIO"
+              "title": "Outline"
             }
           }
         ]
@@ -263,12 +287,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ab4fe069075d146",
+  "active": "d69b8b1b901ea5fc",
   "lastOpenFiles": [
+    "MV Circuits.md",
+    "Custom Item.md",
+    "EnderIO.md",
+    "Welcome.md",
+    "Test.md",
     "Thermal.md",
     "Steel.md",
     "Modular Machinery.md",
-    "EnderIO.md",
     "Steam Boiler.md",
     "LV.md",
     "First Circuitry.md",
@@ -276,5 +304,6 @@
     "Steam.md",
     "Tinkers.md",
     "Beginning.md",
+    "2024-12-15.md"
   ]
 }
