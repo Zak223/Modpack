@@ -1,2 +1,2 @@
-Players must complete [[LV]], and [[Custom Item]] to obtain circuits
+Players must complete [[LV]], and obtain [[Name TBA Alloy]] to make MV circuits!
 
