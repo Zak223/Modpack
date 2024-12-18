@@ -1,0 +1,26 @@
+{
+  "preRequisites:11": [
+    1578198957,
+    1342351269,
+    1230116704
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": " §oAh Jeez... back here again...\n This time it feels different\n\n I feel some weird energy here this time, something.. powerful\n I\u0027ll need to conduct more research on this soon.",
+      "frame:8": "DIAMOND_ON_SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "ismain:1": 1,
+      "name:8": "Here Yet Again"
+    }
+  },
+  "questID:3": 1440521960,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

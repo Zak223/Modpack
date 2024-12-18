@@ -1,0 +1,14 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The start of the pack!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:stone"
+      },
+      "name:8": "Age 0"
+    }
+  },
+  "questID:3": 643095812,
+  "tasks:9": {}
+}

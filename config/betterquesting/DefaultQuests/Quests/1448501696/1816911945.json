@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    643095812
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Age 1"
+    }
+  },
+  "questID:3": 1816911945,
+  "tasks:9": {}
+}

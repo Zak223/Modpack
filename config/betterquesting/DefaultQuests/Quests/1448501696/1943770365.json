@@ -1,0 +1,19 @@
+{
+  "preRequisites:11": [
+    643095812,
+    1952899468
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "tconstruct:tooltables"
+      },
+      "name:8": "Tinkers Construct"
+    }
+  },
+  "questID:3": 1943770365,
+  "tasks:9": {}
+}

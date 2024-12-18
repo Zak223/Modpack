@@ -1,0 +1,31 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§oItalic texts show Lore (Thoughts to yourself)\n\n§r§lBold text shows important information\n\n§rRandomly §9Colored §rtext shows key points",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder"
+      },
+      "name:8": "How Quest Descriptions Work"
+    }
+  },
+  "questID:3": 1578198957,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:cookie"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

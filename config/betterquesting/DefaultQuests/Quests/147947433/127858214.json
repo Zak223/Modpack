@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1440521960
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§o Ah, back to the basics again. \n I need to start with a simple crafting table to be able to survive here.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:crafting_table"
+      },
+      "name:8": "Crafting Table"
+    }
+  },
+  "questID:3": 127858214,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "workbench",
+          "id:8": "minecraft:crafting_table"
+        }
+      },
+      "taskID:8": "bq_standard:crafting"
+    }
+  }
+}

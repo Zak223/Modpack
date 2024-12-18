@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    1839166589
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§o I can easily make better tools with Tinkers.\n I should look into making a smeltery soon",
+      "frame:8": "CROSS_ON_SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "tconstruct:tooltables"
+      },
+      "name:8": "Tinkers Construct"
+    }
+  },
+  "questID:3": 2040375629,
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "tconstruct:tooltables"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "tconstruct:tooltables",
+          "tag:10": {
+            "textureBlock:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "id:8": "minecraft:planks"
+            }
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "tconstruct:tooltables",
+          "tag:10": {
+            "textureBlock:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "id:8": "minecraft:log"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

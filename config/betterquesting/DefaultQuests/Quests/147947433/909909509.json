@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    1839166589
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§o These resources should help me get started on my research",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:iron_ingot"
+      },
+      "name:8": "Basic Resources"
+    }
+  },
+  "questID:3": 909909509,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "minecraft:iron_ingot"
+        },
+        "1:10": {
+          "Count:3": 16,
+          "Damage:2": 25,
+          "id:8": "gregtech:meta_ingot"
+        },
+        "2:10": {
+          "Count:3": 16,
+          "Damage:2": 112,
+          "id:8": "gregtech:meta_ingot"
+        },
+        "3:10": {
+          "Count:3": 16,
+          "id:8": "minecraft:redstone"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

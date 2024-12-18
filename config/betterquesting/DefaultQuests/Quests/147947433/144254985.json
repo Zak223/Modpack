@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1044699732
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§o§oFinally, I can start creating basic machines\nThese machines have to be run on steam, which may get a bit annoying if I want a lot of them\nI should get a lot of bronze before getting into steam",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 260,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Bronze"
+    }
+  },
+  "questID:3": 144254985,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 12,
+          "Damage:2": 260,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

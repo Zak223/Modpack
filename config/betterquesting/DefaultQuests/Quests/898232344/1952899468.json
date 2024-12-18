@@ -1,0 +1,17 @@
+{
+  "preRequisites:11": [
+    2040375629
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Tools!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "Tinkers Construct"
+    }
+  },
+  "questID:3": 1952899468,
+  "tasks:9": {}
+}

@@ -1,0 +1,17 @@
+{
+  "preRequisites:11": [
+    1187552285
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "thermalexpansion:frame"
+      },
+      "name:8": "Thermal"
+    }
+  },
+  "questID:3": 971067297,
+  "tasks:9": {}
+}

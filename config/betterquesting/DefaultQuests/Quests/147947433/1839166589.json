@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    127858214
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§o Luckily, I was able to bring a prospector from home this time.\n I should use it to find ore veins around me to get more resources\n\n I have to be careful though, as §lit has a limited charge §r§o\n\n Lets start with some basic tools first",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 466,
+        "id:8": "gregtech:meta_item_1",
+        "tag:10": {
+          "Charge:4": 100000
+        }
+      },
+      "name:8": "Basic Tools"
+    }
+  },
+  "questID:3": 1839166589,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:stone_pickaxe"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:stone_axe"
+        }
+      },
+      "taskID:8": "bq_standard:crafting"
+    }
+  }
+}

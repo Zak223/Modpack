@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    144254985,
+    1442707399
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to the First Age\nWe made steam worthwile... maybe...\nWelcome to §lname goes here \n\n§r§oFinally, some sort of machinery.\nI can make a lot more items using Steam machines!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:steam_casing"
+      },
+      "name:8": "Steam"
+    }
+  },
+  "questID:3": 1349738403,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:steam_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
