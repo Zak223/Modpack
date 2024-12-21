@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1741608733
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Smelt your Ores!\n(Unless you have a full Steam setup, this is not worth it..)",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 15,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Furnace"
+    }
+  },
+  "questID:3": 1749126196,
+  "tasks:9": {}
+}

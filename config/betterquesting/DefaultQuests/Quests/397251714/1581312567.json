@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1741608733
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "A faster and cheaper way to grind down your ingots!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 9,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Macerator"
+    }
+  },
+  "questID:3": 1581312567,
+  "tasks:9": {}
+}

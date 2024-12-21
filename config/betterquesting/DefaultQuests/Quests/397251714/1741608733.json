@@ -1,14 +1,30 @@
 {
+  "preRequisites:11": [
+    1546301860
+  ],
   "properties:10": {
     "betterquesting:10": {
-      "desc:8": "No Description",
+      "desc:8": "Your First Boiler! (of many)",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "minecraft:nether_star"
+        "Damage:2": 1,
+        "id:8": "gregtech:machine"
       },
-      "name:8": "New Quest"
+      "name:8": "Bronze Boiler"
     }
   },
   "questID:3": 1741608733,
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
 }

@@ -8,6 +8,7 @@
       "desc:8": "Welcome to the First Age\nWe made steam worthwile... maybe...\nWelcome to §lname goes here \n\n§r§oFinally, some sort of machinery.\nI can make a lot more items using Steam machines!",
       "icon:10": {
         "Count:3": 1,
+        "Damage:2": 1,
         "id:8": "gregtech:steam_casing"
       },
       "name:8": "Steam"
@@ -20,6 +21,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
+          "Damage:2": 1,
           "id:8": "gregtech:steam_casing"
         }
       },
