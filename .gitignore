@@ -1,13 +1,18 @@
-*/*
-!config/*
-!scripts/*
-!resources/*
-!Planning/*
-
-!.gitattributes
-!.gitignore
-!Changelog.txt
-!LICENSE
-!README.md
-
+# files
 options.txt
+crafttweaker.log
+usercache.json
+usernamecache.json
+options.txt
+usercache.json
+usernamecache.json
+
+
+# folders
+journeymap
+logs
+local
+mods
+saves
+visualores
+crash-reports

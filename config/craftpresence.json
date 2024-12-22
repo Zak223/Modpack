@@ -135,7 +135,8 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "Gman_65": "https://mc-heads.net/avatar/9750e654eff64795ad3ba2478f4b8931"
+      "Gman_65": "https://mc-heads.net/avatar/9750e654eff64795ad3ba2478f4b8931",
+      "Purplik": "https://mc-heads.net/avatar/68afeb188bbf41b493fc92286bda390a"
     },
     "dynamicVariables": {
       "default": "Example Text",
