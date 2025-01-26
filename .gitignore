@@ -17,3 +17,7 @@ mods
 saves
 visualores
 crash-reports
+config/InvTweaks.cfg
+config/packetfixer.properties
+config/splash.properties
+config/jei/worldSettings.cfg

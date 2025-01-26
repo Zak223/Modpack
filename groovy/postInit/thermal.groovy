@@ -10,8 +10,8 @@ def thermalBronzeBlend = 'thermalfoundation:material:99'
 // Remove thermal alloys
 
 // Steel
-crafting.removeByOutput(item(thermalSteel))
-crafting.removeByInput(item(thermalSteel))
+crafting.removeByOutput(item('thermalfoundation:material:160'))
+crafting.removeByInput(item('thermalfoundation:material:160'))
 mods.enderio.alloy_smelter.remove(item(thermalSteel))
 mods.thermalexpansion.smelter.removeByOutput(item(thermalSteel))
 mods.thermalexpansion.smelter.removeByInput(item(thermalSteel))

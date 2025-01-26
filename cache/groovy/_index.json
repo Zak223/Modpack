@@ -6,7 +6,17 @@
     {
       "name": "postInit.thermal",
       "path": "postInit/thermal.groovy",
-      "lm": 1737833101186
+      "lm": 1737851745872
+    },
+    {
+      "name": "postInit.customItems",
+      "path": "postInit/customItems.groovy",
+      "lm": 1737852769309
+    },
+    {
+      "name": "preInit.itemadder",
+      "path": "preInit/itemadder.groovy",
+      "lm": 1737846919760
     },
     {
       "name": "postInit.recipies",
